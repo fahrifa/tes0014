@@ -1,0 +1,4 @@
+Program Studi 	: Informatika
+Jurusan 	: Teknologi Informasi
+Fakultas 	: Teknologi Informasi dan Komunikasi
+Kampus 		: Universitas Semarang
